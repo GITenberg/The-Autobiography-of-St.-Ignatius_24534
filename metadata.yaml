@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '26560'
     url: http://www.gutenberg.org/2009/agents/26560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24534#The-Autobiography-of-St.-Ignatius
 gutenberg_issued: '2008-02-06'
 gutenberg_type: Text
 identifiers:
