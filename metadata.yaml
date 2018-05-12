@@ -1,0 +1,36 @@
+_repo: The-Autobiography-of-St.-Ignatius_24534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ignatius, of Loyola, Saint
+    birthdate: 1491
+    deathdate: 1556
+    gutenberg_agent_id: '26561'
+    url: http://www.gutenberg.org/2009/agents/26561
+    wikipedia: http://en.wikipedia.org/wiki/Ignatius_of_loyola
+  editor:
+    agent_name: O'Conor, J. F. X. (John Francis Xavier)
+    alias: O'Conor, John Francis Xavier
+    birthdate: 1852
+    deathdate: 1920
+    gutenberg_agent_id: '26560'
+    url: http://www.gutenberg.org/2009/agents/26560
+description: ''
+gutenberg_issued: '2008-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Ignatius, of Loyola, Saint, 1491-1556'
+- !lcc 'CT'
+- !lcsh 'Christian saints -- Spain -- Biography'
+title: The Autobiography of St. Ignatius
+url: http://www.gutenberg.org/ebooks/24534
